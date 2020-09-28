@@ -1,5 +1,6 @@
 # ideal-adventure
 
 Esse é o meu primeiro código do GITHUB
+Agora no JS!
 
-By Iasmin de Cássia <3
+By Iasmin de Cássia
